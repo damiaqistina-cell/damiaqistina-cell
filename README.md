@@ -1,43 +1,43 @@
-# Hai, saya Damia Qistina 👋
+# Hi there, I'm Damia Qistina 👋
 
-### 🎓 Pelajar Sarjana Muda Sains Komputer (Kejuruteraan Data) dengan Kepujian | UTM
-
----
-
-## 👩‍💻 Mengenai Saya
-- 🎓 Saya sedang mengikuti pengajian **Sarjana Muda Sains Komputer (Kejuruteraan Data) dengan Kepujian** di Universiti Teknologi Malaysia (UTM).
-- 🔭 Saya kini berada dalam fasa mengukuhkan asas pengaturcaraan (*coding*) dan pengurusan data.
-- 🌱 Saya kini sedang mempelajari **GitHub & Bahasa Pengaturcaraan** (seperti Python, SQL, C++).
-- 💡 Berminat dalam pemprosesan data, analisis data, dan pembinaan talian data (*data pipelines*).
+### 🎓 Bachelor of Computer Science (Data Engineering) with Honours | UTM
 
 ---
 
-## 🛠️ Kemahiran & Alat (*Tech Stack*)
+## 👩‍💻 About Me
+- 🎓 I am currently pursuing a **Bachelor of Computer Science (Data Engineering) with Honours** at Universiti Teknologi Malaysia (UTM).
+- 🔭 I am actively strengthening my core programming skills and exploring data management concepts.
+- 🌱 Currently learning **GitHub & Programming Languages** (such as Python, SQL, C++).
+- 💡 Interested in data processing, data analytics, and building efficient data pipelines.
 
-### 💻 Bahasa Pengaturcaraan
-- Python | C++ | SQL *(Tukar/tambah mengikut subjek anda)*
+---
 
-### 📊 Sains & Kejuruteraan Data
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages
+- Python | C++ | SQL *(Update as you learn more)*
+
+### 📊 Data Engineering & Analytics
 - Data Wrangling & Analysis
 - Database Management (MySQL / PostgreSQL)
 
-### 🛠️ Alat & Platform
+### 🛠️ Developer Tools
 - Git & GitHub
 - VS Code / Jupyter Notebook
 
 ---
 
-## 📬 Hubungi Saya
+## 📬 Connect with Me
 
-Mari berhubung dan berkolaborasi!
+Feel free to reach out for collaborations or networking!
 
-- ✉️ **Emel:** [damia.qistina@graduate.utm.my](mailto:damia.qistina@graduate.utm.my)
+- ✉️ **Email:** [damia.qistina@graduate.utm.my](mailto:damia.qistina@graduate.utm.my)
 - 💼 **LinkedIn:** [Damia Qistina](https://www.linkedin.com/in/damia-qistina-43826634b)
 
 ---
 
-## ⚡ Fakta Menarik
-- ⚡ Sedang bersemangat meneroka dunia *Data Engineering* dan membina portfolio projek pertama di GitHub!
+## ⚡ Fun Fact
+- ⚡ Excited about diving deeper into the world of Data Engineering and building my first project portfolio on GitHub!
 
 <!--
 **damiaqistina-cell/damiaqistina-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
